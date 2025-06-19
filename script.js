@@ -18,3 +18,4 @@ products.forEach(prod => {
     `;
     container.appendChild(div);
 });
+commit file(add script.js)
